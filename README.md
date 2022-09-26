@@ -2,7 +2,7 @@
 
 - Some technologies I have been working with are Python, HTML and CSS.
 - I'm currently learninng Python and making GUI using tkinter
-- I'm working on smaller projects to expand my knowledge. 
+- Recently I have been working on smaller projects to expand my knowledge. 
 - I am looking forward to working on larger products and collaborating with other skilled individuals
 
 
