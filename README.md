@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Roshae. I'm a 1st year Computer Science student at the University of the West Indies, Jamaica. 
+# 💫 About Me:
+I am a first year undergraduate Computer Science student with a passion for designing and developing user-friendly websites and applications. I am currently working on a variety of frontend development projects, including creating responsive layouts and optimizing website performance. In addition, I am exploring various programming languages and frameworks to expand my skills and knowledge. I am eager to collaborate with other developers and designers to create innovative solutions that improve user experiences and solve real-world problems. Whether it's brainstorming new ideas or debugging code, I am always looking for ways to learn and grow as a developer. So, if you are looking for a dedicated and driven team member, I am excited to work with you!
 
-- Some technologies I have been working with are Python, Java, HTML and CSS.
-- I'm currently learning Python and making GUI using tkinter
-- Recently, I have been working on smaller projects to expand my knowledge. 
-- I am looking forward to working on larger products and collaborating with other skilled individuals
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshae-sinclair) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shaecodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaecodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaecodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
