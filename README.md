@@ -1,5 +1,5 @@
 # ✅ About Me:
-I am a first year Computer Science student with a passion for developing user-friendly websites and applications. I am currently working on various frontend development projects, including optimizing website performance. I am eager to collaborate with other developers and designers to create innovative solutions that improve user experiences. Whether it's brainstorming new ideas or debugging code, I am always looking for ways to learn and grow. If you are looking for a dedicated team member, I am excited to work with you!
+I am a first year Computer Science student with a passion for making user friendly applications. I am currently working on various python projects, some that include automation. I am eager to collaborate with other developers and designers to create innovative solutions. Whether it's brainstorming new ideas or debugging code, I am always looking for ways to learn and grow. If you are looking for a dedicated team member, I am excited to work with you!
 
 
 ## 🌐 Socials:
