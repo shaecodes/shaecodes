@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roshae Sinclair</h1>
-<h3 align="center">A passionate first year Computer Science student at the University of the West Indies</h3>
+<h1 align="left">Hi 👋, I'm Roshae Sinclair</h1>
+<h3 align="left">A passionate first year Computer Science student at the University of the West Indies</h3>
 
 - 🌱 I’m currently learning **python automation, web scraping, data analysis and web development using frameworks such as Django**
 
