@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaecodes](https://github.com/shaecodes)
 
-- 📝 I regularly write articles on [https://codebyroshae.wixsite.com/portfolio](https://codebyroshae.wixsite.com/portfolio)
+- 📝 I regularly write articles on [https://codebyroshae.wixsite.com/portfolio/blog](https://codebyroshae.wixsite.com/portfolio/blog)
 
 - 📫 How to reach me **sinclairroshae@yahoo.com**
 
