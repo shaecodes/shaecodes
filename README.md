@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Roshae Sinclair</h1>
-<h3 align="center">A passionate firsy year Computer Science student at the University of the West Indies</h3>
+<h1 align="left">Hi 👋, I'm Roshae Sinclair</h1>
+<h3 align="left">A passionate first year Computer Science student at the University of the West Indies</h3>
 
 - 🌱 I’m currently learning **python automation, web scraping, data analysis and web development using frameworks such as Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaecodes](https://github.com/shaecodes)
 
-- 📝 I regularly write articles on [https://codebyroshae.wixsite.com/portfolio](https://codebyroshae.wixsite.com/portfolio)
+- 📝 I regularly write articles on [https://codebyroshae.wixsite.com/portfolio/blog](https://codebyroshae.wixsite.com/portfolio/blog)
 
 - 📫 How to reach me **sinclairroshae@yahoo.com**
 
