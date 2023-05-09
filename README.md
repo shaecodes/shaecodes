@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Roshae Sinclair</h1>
 <h3 align="left">A passionate first year Computer Science student at the University of the West Indies</h3>
 
-- 🌱 I’m currently learning **python automation, web scraping, data analysis and web development using frameworks such as Django**
+- 🌱 I’m currently learning **python automation, web scraping and data analysis. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaecodes](https://github.com/shaecodes)
 
