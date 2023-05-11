@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sinclairroshae@yahoo.com**
 
-- 📄 Know about my experiences [https://codebyroshae.wixsite.com/portfolio/resume](https://codebyroshae.wixsite.com/portfolio/resume)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
