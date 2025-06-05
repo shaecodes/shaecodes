@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **data science, machine learning and artificial intelligence**
 
 - 👨‍💻 Check out my PowerBI dashboard at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
-- 📝 I regularly write articles on [https://codebyroshae.wixsite.com/portfolio/blog](https://codebyroshae.wixsite.com/portfolio/blog)
 
 - 📫 How to reach me **sinclairroshae@yahoo.com**
 
