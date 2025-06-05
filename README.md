@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science, machine learning and artificial intelligence**
 
-- 👨‍💻 Check out my PowerBI dashboard at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
+- 👨‍💻 Check out my PowerBI dashboards at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
 
 - 📫 How to reach me **sinclairroshae@yahoo.com**
 
