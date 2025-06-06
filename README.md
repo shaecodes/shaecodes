@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Roshae Sinclair</h1>
 <h3 align="left">A passionate final year Computer Science student at the University of the West Indies</h3>
 
-- 🌱 I’m currently learning **data science, machine learning and artificial intelligence**
+- 🌱 I’m currently learning **data science, data analytics, machine learning and artificial intelligence**
 
 - 👨‍💻 Check out my PowerBI dashboards at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
 
