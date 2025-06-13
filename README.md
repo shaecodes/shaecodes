@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science, data analytics, machine learning and artificial intelligence**
 
-- I have also completed several **python development** applications using Tkinker, Pandas and OS
+- 🐍 I have also completed several **python development** applications using Tkinker, Pandas and OS
 
 - 👨‍💻 Check out my PowerBI dashboards at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
 
