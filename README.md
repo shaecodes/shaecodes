@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science, data analytics, machine learning and artificial intelligence**
 
-- 🐍 I have also completed several **python development** applications using Tkinker, Pandas and OS. These include web scrapers, image detection, file organizers and management systems. 
+- 🐍 I have also completed several **python development** applications using Tkinker, Pandas and OS. These include web scrapers, image detection, file organizers, recommendation and management systems. 
 
 - 👨‍💻 Check out my PowerBI dashboards at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
 
