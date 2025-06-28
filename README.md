@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my PowerBI dashboards at [https://codewithroshae.wixsite.com/roshae-portfolio/projects](https://codewithroshae.wixsite.com/roshae-portfolio/projects)
 
-- 📫 How to reach me **sinclairroshae@yahoo.com**
+- 📫 How to reach me **sinclairroshae@gmail.com**
 
 - 📄 Know about my experiences 
 
